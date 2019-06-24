@@ -1,0 +1,22 @@
+PODS:
+  - blockstack (0.0.1):
+    - Flutter
+  - Flutter (1.0.0)
+
+DEPENDENCIES:
+  - blockstack (from `.symlinks/plugins/blockstack/ios`)
+  - Flutter (from `.symlinks/flutter/ios`)
+
+EXTERNAL SOURCES:
+  blockstack:
+    :path: ".symlinks/plugins/blockstack/ios"
+  Flutter:
+    :path: ".symlinks/flutter/ios"
+
+SPEC CHECKSUMS:
+  blockstack: 59681f198b73b7c551f59f8aecfd0c0f9a0e2a01
+  Flutter: 58dd7d1b27887414a370fcccb9e645c08ffd7a6a
+
+PODFILE CHECKSUM: ebd43b443038e611b86ede96e613bd6033c49497
+
+COCOAPODS: 1.6.1
